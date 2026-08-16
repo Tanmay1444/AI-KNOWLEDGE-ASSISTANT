@@ -1,0 +1,26 @@
+# Environment variables 
+.env 
+ 
+# Virtual environment 
+venv/ 
+.venv/ 
+ 
+# Python cache 
+__pycache__/ 
+*.pyc 
+ 
+# Chroma / local vector database 
+data/ 
+ 
+# Streamlit 
+.streamlit/ 
+ 
+# OS files 
+.DS_Store 
+Thumbs.db
+
+# Chat history
+chat_history.json
+
+# Uploaded PDF documents
+documents/*.pdf
